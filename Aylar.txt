@@ -10,17 +10,3 @@ Eylül
 Ekim
 Kasim
 Aralik
-
-
-Ocak
-Subat
-Mart
-Nisan
-Mayis
-Haziran
-Temmuz
-Agustos
-Eylül
-Ekim
-Kasim
-Aralik
