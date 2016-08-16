@@ -1,0 +1,16 @@
+Pazartesi
+Sali
+Çarsamba
+Persembe
+Cuma
+Cumartesi
+Pazar
+
+
+Pazartesi
+Sali
+Çarsamba
+Persembe
+Cuma
+Cumartesi
+Pazar
