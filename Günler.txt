@@ -1,16 +1,7 @@
-Pazartesi
-Sali
-Çarsamba
-Persembe
-Cuma
-Cumartesi
-Pazar
-
-
-Pazartesi
-Sali
-Çarsamba
-Persembe
-Cuma
-Cumartesi
-Pazar
+Pazartesi  	Pazartesi
+Sali		Sali
+Çarsamba	Çarsamba
+Persembe	Persembe
+Cuma		Cuma
+Cumartesi	Cumartesi
+Pazar		Pazar
