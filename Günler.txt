@@ -1,7 +1,9 @@
 Pazartesi  	Pazartesi
 Sali		Sali
-�arsamba	�arsamba
+Çarsamba	Çarsamba
 Persembe	Persembe
 Cuma		Cuma
 Cumartesi	Cumartesi
 Pazar		Pazar
+
+GitHub Üzerinden Değişiklik.
